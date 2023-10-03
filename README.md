@@ -25,6 +25,12 @@
 ## 設計書
 後ほど作成予定
 
+## 使用素材
+* https://fontawesome.com/
+
 ## 開発環境
 * フレームワーク：Ruby on Rails
 * IDE：Cloud9
+
+## 実装機能リスト
+https://docs.google.com/spreadsheets/d/1nV4MSYcsnJGi3mxzirtDhnqvcmvM4Nvmh8pTbgdeI3A/edit#gid=1091086188
